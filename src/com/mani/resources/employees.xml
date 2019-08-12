@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+	<employee>
+		<empNo>101</empNo>
+		<name>mani</name>
+		<salary>10000</salary>
+	</employee>
+	<employee>
+		<empNo>102</empNo>
+		<name>sai</name>
+		<salary>20000</salary>
+	</employee>
+	<employee>
+		<empNo>103</empNo>
+		<name>ram</name>
+		<salary>30000</salary>
+	</employee>
+</employees>

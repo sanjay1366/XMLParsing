@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+<employee empNo="101" name="raja" salary="19000">
+<deptNo>12</deptNo>
+<deptName>sales</deptName>
+</employee>
+<employee empNo="102" name="rahul" salary="20000">
+<deptNo>12</deptNo>
+<deptName>sales</deptName>
+</employee>
+<employee empNo="101" name="mahesh" salary="30000">
+<deptNo>13</deptNo>
+<deptName>IT</deptName>
+</employee>
+</employees>

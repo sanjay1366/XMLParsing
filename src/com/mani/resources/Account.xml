@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bank>
+<account type="saving">
+<id>121</id>
+<name>john</name>
+<amount>10000</amount>
+</account>
+<account type="current">
+<id>111</id>
+<name>santhosh</name>
+<amount>20000</amount>
+</account>
+</bank>
